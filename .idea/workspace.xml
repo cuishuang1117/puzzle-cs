@@ -16,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/puzzle-cs" />
+  </component>
   <component name="ProjectId" id="1md1nl1sO2PLIF7vHIwUNrg27qu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,10 +46,22 @@
       <workItem from="1609898036383" duration="5508000" />
       <workItem from="1609912978755" duration="2602000" />
       <workItem from="1609915765995" duration="1105000" />
+      <workItem from="1610002343985" duration="471000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

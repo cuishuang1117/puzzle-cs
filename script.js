@@ -34,7 +34,6 @@ function isWin(){
       alert("恭喜你，游戏胜利! 请点击确定按钮。");
 }
 $(document).ready(function(){
-    debugger;
 $('#create').click(function () {
     try {
         rows = $("#rows").val();
@@ -97,7 +96,7 @@ $(document).keydown(function(event){
         }
     }
     else if(event.keyCode == 40){ //下
-        if(empty < rows * rows - 1) {
+        if(empty <= rows * rows - rows) {
             move(parseInt(empty) + parseInt(rows), empty);
             isWin();
         }
